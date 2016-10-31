@@ -1,0 +1,5 @@
+
+WRITER: Enzo Ferrari, TITLE: Why I din't make Lada, ISBN: 34554
+WRITER: Vaino Linna, TITLE: Tuntematon Sotilas, ISBN: 49345453
+WRITER: Smith John, TITLE: How I made my millions, ISBN: 9493493
+WRITER: Wilbur Smith, TITLE: Vihan ja rakkauden perinto”, ISBN: 9493934
